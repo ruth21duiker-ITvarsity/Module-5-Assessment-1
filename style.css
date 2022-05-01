@@ -1,0 +1,21 @@
+p{
+    font-weight: bold;
+    color: darkslategrey;
+    padding-left: 500px;
+    font-size: 30px;
+}
+body{
+    text-decoration: none;
+    background-color: aliceblue;
+}
+a{
+    text-decoration: none;
+}
+form{
+    padding-left: 500px;
+    padding-bottom: 20px;
+    padding-top: 80px;
+    color: black;
+    font-style: italic;
+}
+
